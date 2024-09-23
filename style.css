@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+
+body{
+    background: rgb(105, 210, 255);
+    font-family:"Abel", sans-serif;
+    color: white;
+}
+
+nav a{
+    text-decoration: none;
+}
